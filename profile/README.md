@@ -1,5 +1,5 @@
 
-<h1 align="center">⚡ Angular Annihilator ⚡</h1>
+<h1 align="center">⚡ Angular Alchemist ⚡</h1>
 
 <p align="center">
   <em>Building blazing-fast web experiences with precision and purpose</em><br>
@@ -90,7 +90,7 @@ public class AboutMe {
 
 | Metric                    | Data                                   |
 | :------------------------ | :------------------------------------- |
-| 🧩 **Organization Name**  | Angular Annihilator                    |
+| 🧩 **Organization Name**  | Angular Alchemist                    |
 | 📁 **Total Repositories** | 82                                     |
 | 🚀 **Focus Areas**        | Web Development, Automation, AI, Cloud |
 | 🧠 **Core Technologies**  | Angular, Spring Boot, React, Node.js   |
@@ -98,7 +98,7 @@ public class AboutMe {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=120&section=footer&text=Made%20with%20❤️%20by%20Angular%20Annihilator&fontSize=16&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=120&section=footer&text=Made%20with%20❤️%20by%20Angular%20Alchemist&fontSize=16&fontColor=fff"/>
 </p>
 ```
 
