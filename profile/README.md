@@ -1,5 +1,5 @@
 
-<h1 align="center">⚡ Angular Alchemist ⚡</h1>
+<h1 align="center">⚡ System Sage ⚡</h1>
 
 <p align="center">
   <em>Building blazing-fast web experiences with precision and purpose</em><br>
@@ -98,7 +98,7 @@ public class AboutMe {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=120&section=footer&text=Made%20with%20❤️%20by%20Angular%20Alchemist&fontSize=16&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=120&section=footer&text=Made%20with%20❤️%20by%20System%20Sage&fontSize=16&fontColor=fff"/>
 </p>
 ```
 
