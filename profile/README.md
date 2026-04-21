@@ -90,8 +90,8 @@ public class AboutMe {
 
 | Metric                    | Data                                   |
 | :------------------------ | :------------------------------------- |
-| 🧩 **Organization Name**  | Angular Alchemist                    |
-| 📁 **Total Repositories** | 82                                     |
+| 🧩 **Organization Name**  | System Sage                            |
+| 📁 **Total Repositories** | 2                                      |
 | 🚀 **Focus Areas**        | Web Development, Automation, AI, Cloud |
 | 🧠 **Core Technologies**  | Angular, Spring Boot, React, Node.js   |
 
